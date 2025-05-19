@@ -1,0 +1,37 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Transform: AWS::Serverless-2016-10-31
+Description: >
+  AWS SAM Template for the Product Search API
+  This template deploys a Lambda function that handles product search requests.
+
+Globals:
+  Function:
+    Timeout: 300
+    Tracing: Active
+    LoggingConfig:
+      LogFormat: JSON
+  Api:
+    TracingEnabled: true
+
+Resources:
+  ProductSearchFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: autocomplete/
+      Handler: app.lambda_handler
+      Runtime: python3.12
+      Architectures:
+        - x86_64
+      Events:
+        ProductSearchApi:
+          Type: Api
+          Properties:
+            Path: /like/products/search
+            Method: get
+      Policies:
+        - AWSLambdaBasicExecutionRole
+
+Outputs:
+  ProductSearchFunctionArn:
+    Description: Product Search Lambda Function ARN
+    Value: !GetAtt ProductSearchFunction.Arn

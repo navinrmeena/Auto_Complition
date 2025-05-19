@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "title": "Motorola Camera 723Mini",
+    "brand": "Motorola",
+    "category": "Camera",
+    "price": 1405.8
+  },
+  {
+    "id": 2,
+    "title": "Xiaomi Laptop 401Fold",
+    "brand": "Xiaomi",
+    "category": "Laptop",
+    "price": 602.09
+  },
+  {
+    "id": 3,
+    "title": "Sony Monitor 547Fold",
+    "brand": "Sony",
+    "category": "Monitor",
+    "price": 506.11
+  },
+  {
+    "id": 4,
+    "title": "Realme Smartwatch 732Plus",
+    "brand": "Realme",
+    "category": "Smartwatch",
+    "price": 1600.41
+  },
+  {
+    "id": 5,
+    "title": "Xiaomi Smartwatch 540Max",
+    "brand": "Xiaomi",
+    "category": "Smartwatch",
+    "price": 1355.52
+  },
+  {
+    "id": 6,
+    "title": "LG Headphone 910Mini",
+    "brand": "LG",
+    "category": "Headphone",
+    "price": 140.79
+  },
+  {
+    "id": 7,
+    "title": "Realme Tablet 345Neo",
+    "brand": "Realme",
+    "category": "Tablet",
+    "price": 1156.27
+  },
+  {
+    "id": 8,
+    "title": "LG Monitor 992Fold",
+    "brand": "LG",
+    "category": "Monitor",
+    "price": 1621.04
+  },
+  {
+    "id": 9,
+    "title": "Asus Speaker 533Lite",
+    "brand": "Asus",
+    "category": "Speaker",
+    "price": 1792.48
+  },
+  {
+    "id": 10,
+    "title": "Sony Smartphone 324Neo",
+    "brand": "Sony",
+    "category": "Smartphone",
+    "price": 404.03
+  },
+  {
+    "id": 11,
+    "title": "Sony Tablet 495Pro",
+    "brand": "Sony",
+    "category": "Tablet",
+    "price": 746.76
+  },
+  {
+    "id": 12,
+    "title": "Nokia Monitor 269Max",
+    "brand": "Nokia",
+    "category": "Monitor",
+    "price": 1034.11
+  },
+  {
+    "id": 13,
+    "title": "LG Smartphone 453Lite",
+    "brand": "LG",
+    "category": "Smartphone",
+    "price": 865.99
+  },
+  {
+    "id": 14,
+    "title": "LG Smartwatch 57Air",
+    "brand": "LG",
+    "category": "Smartwatch",
+    "price": 1259.02
+  },
+  {
+    "id": 15,
+    "title": "Motorola TV 858Plus",
+    "brand": "Motorola",
+    "category": "TV",
+    "price": 732.37
+  },
+  {
+    "id": 16,
+    "title": "LG Camera 737Neo",
+    "brand": "LG",
+    "category": "Camera",
+    "price": 1000.89
+  },
+  {
+    "id": 17,
+    "title": "OnePlus Camera 234Neo",
+    "brand": "OnePlus",
+    "category": "Camera",
+    "price": 1849.23
+  },
+  {
+    "id": 18,
+    "title": "OnePlus Laptop 141Neo",
+    "brand": "OnePlus",
+    "category": "Laptop",
+    "price": 1534.42
+  },
+  {
+    "id": 19,
+    "title": "Nokia Smartphone 654Ultra",
+    "brand": "Nokia",
+    "category": "Smartphone",
+    "price": 1912.49
+  },
+  {
+    "id": 20,
+    "title": "Asus Camera 420Fold",
+    "brand": "Asus",
+    "category": "Camera",
+    "price": 155.65
+  },
+  {
+    "id": 21,
+    "title": "Sony Speaker 63Plus",
+    "brand": "Sony",
+    "category": "Speaker",
+    "price": 1087.77
+  },
+  {
+    "id": 22,
+    "title": "Xiaomi Headphone 261Mini",
+    "brand": "Xiaomi",
+    "category": "Headphone",
+    "price": 1507.64
+  },
+  {
+    "id": 23,
+    "title": "Nokia Monitor 430Max",
+    "brand": "Nokia",
+    "category": "Monitor",
+    "price": 1117.55
+  },
+  {
+    "id": 24,
+    "title": "Sony Camera 443Pro",
+    "brand": "Sony",
+    "category": "Camera",
+    "price": 1718.45
+  },
+  {
+    "id": 25,
+    "title": "Nokia Tablet 281Edge",
+    "brand": "Nokia",
+    "category": "Tablet",
+    "price": 1285.97
+  },
+  {
+    "id": 26,
+    "title": "Asus TV 800Mini",
+    "brand": "Asus",
+    "category": "TV",
+    "price": 419.2
+  },
+  {
+    "id": 27,
+    "title": "Sony TV 146Lite",
+    "brand": "Sony",
+    "category": "TV",
+    "price": 1784.36
+  },
+  {
+    "id": 28,
+    "title": "OnePlus TV 4Neo",
+    "brand": "OnePlus",
+    "category": "TV",
+    "price": 846.57
+  },
+  {
+    "id": 29,
+    "title": "Nokia Monitor 549Plus",
+    "brand": "Nokia",
+    "category": "Monitor",
+    "price": 485.44
+  },
+  {
+    "id": 30,
+    "title": "Asus Headphone 888Edge",
+    "brand": "Asus",
+    "category": "Headphone",
+    "price": 1892.56
+  },
+  {
+    "id": 31,
+    "title": "OnePlus Headphone 642Edge",
+    "brand": "OnePlus",
+    "category": "Headphone",
+    "price": 1031.29
+  },
+  {
+    "id": 32,
+    "title": "Apple TV 334Mini",
+    "brand": "Apple",
+    "category": "TV",
+    "price": 1282.79
+  },
+  {
+    "id": 33,
+    "title": "LG Tablet 132Lite",
+    "brand": "LG",
+    "category": "Tablet",
+    "price": 926.96
+  },
+  {
+    "id": 34,
+    "title": "Samsung Camera 503Pro",
+    "brand": "Samsung",
+    "category": "Camera",
+    "price": 716.87
+  },
+  {
+    "id": 35,
+    "title": "Motorola Smartwatch 335Lite",
+    "brand": "Motorola",
+    "category": "Smartwatch",
+    "price": 1235.25
+  },
+  {
+    "id": 36,
+    "title": "Asus Laptop 470Ultra",
+    "brand": "Asus",
+    "category": "Laptop",
+    "price": 1872.48
+  },
+  {
+    "id": 37,
+    "title": "Nokia Smartphone 812Neo",
+    "brand": "Nokia",
+    "category": "Smartphone",
+    "price": 365.74
+  },
+  {
+    "id": 38,
+    "title": "Samsung Laptop 746Fold",
+    "brand": "Samsung",
+    "category": "Laptop",
+    "price": 895.59
+  },
+  {
+    "id": 39,
+    "title": "Nokia Monitor 604Ultra",
+    "brand": "Nokia",
+    "category": "Monitor",
+    "price": 1052.44
+  },
+  {
+    "id": 40,
+    "title": "LG Monitor 459Fold",
+    "brand": "LG",
+    "category": "Monitor",
+    "price": 383.29
+  },
+  {
+    "id": 41,
+    "title": "Samsung Smartwatch 885Fold",
+    "brand": "Samsung",
+    "category": "Smartwatch",
+    "price": 838.07
+  },
+  {
+    "id": 42,
+    "title": "Asus Smartwatch 808Ultra",
+    "brand": "Asus",
+    "category": "Smartwatch",
+    "price": 1615.81
+  },
+  {
+    "id": 43,
+    "title": "Realme TV 988Plus",
+    "brand": "Realme",
+    "category": "TV",
+    "price": 1694.91
+  },
+  {
+    "id": 44,
+    "title": "Sony Speaker 733Max",
+    "brand": "Sony",
+    "category": "Speaker",
+    "price": 1018.26
+  },
+  {
+    "id": 45,
+    "title": "Asus Monitor 443Pro",
+    "brand": "Asus",
+    "category": "Monitor",
+    "price": 1657.11
+  },
+  {
+    "id": 46,
+    "title": "Sony TV 14Ultra",
+    "brand": "Sony",
+    "category": "TV",
+    "price": 813.57
+  },
+  {
+    "id": 47,
+    "title": "Xiaomi Tablet 786Lite",
+    "brand": "Xiaomi",
+    "category": "Tablet",
+    "price": 1652.3
+  },
+  {
+    "id": 48,
+    "title": "Apple TV 582Fold",
+    "brand": "Apple",
+    "category": "TV",
+    "price": 850.44
+  },
+  {
+    "id": 49,
+    "title": "Xiaomi Smartwatch 448Mini",
+    "brand": "Xiaomi",
+    "category": "Smartwatch",
+    "price": 1185.68
+  },
+  {
+    "id": 50,
+    "title": "Nokia Speaker 295Neo",
+    "brand": "Nokia",
+    "category": "Speaker",
+    "price": 1289.8
+  },
+  {
+    "id": 51,
+    "title": "Motorola Headphone 219Max",
+    "brand": "Motorola",
+    "category": "Headphone",
+    "price": 1910.09
+  },
+  {
+    "id": 52,
+    "title": "Motorola TV 916Lite",
+    "brand": "Motorola",
+    "category": "TV",
+    "price": 1452.84
+  },
+  {
+    "id": 53,
+    "title": "Nokia Speaker 221Air",
+    "brand": "Nokia",
+    "category": "Speaker",
+    "price": 360.77
+  },
+  {
+    "id": 54,
+    "title": "Asus TV 947Fold",
+    "brand": "Asus",
+    "category": "TV",
+    "price": 1857.32
+  },
+  {
+    "id": 55,
+    "title": "Samsung Laptop 657Fold",
+    "brand": "Samsung",
+    "category": "Laptop",
+    "price": 875.49
+  },
+  {
+    "id": 56,
+    "title": "Apple Camera 585Neo",
+    "brand": "Apple",
+    "category": "Camera",
+    "price": 1986.54
+  },
+  {
+    "id": 57,
+    "title": "Xiaomi Laptop 127Neo",
+    "brand": "Xiaomi",
+    "category": "Laptop",
+    "price": 667.86
+  },
+  {
+    "id": 58,
+    "title": "OnePlus Speaker 476Plus",
+    "brand": "OnePlus",
+    "category": "Speaker",
+    "price": 1064.09
+  },
+  {
+    "id": 59,
+    "title": "Samsung TV 430Pro",
+    "brand": "Samsung",
+    "category": "TV",
+    "price": 800.27
+  },
+  {
+    "id": 60,
+    "title": "Samsung Speaker 882Ultra",
+    "brand": "Samsung",
+    "category": "Speaker",
+    "price": 1658.96
+  },
+  {
+    "id": 61,
+    "title": "Sony Smartwatch 782Air",
+    "brand": "Sony",
+    "category": "Smartwatch",
+    "price": 133.39
+  },
+  {
+    "id": 62,
+    "title": "Apple Laptop 11Mini",
+    "brand": "Apple",
+    "category": "Laptop",
+    "price": 1695.6
+  },
+  {
+    "id": 63,
+    "title": "OnePlus Camera 291Max",
+    "brand": "OnePlus",
+    "category": "Camera",
+    "price": 559.86
+  },
+  {
+    "id": 64,
+    "title": "LG TV 401Fold",
+    "brand": "LG",
+    "category": "TV",
+    "price": 1878.34
+  },
+  {
+    "id": 65,
+    "title": "Xiaomi Smartwatch 155Ultra",
+    "brand": "Xiaomi",
+    "category": "Smartwatch",
+    "price": 1686.33
+  },
+  {
+    "id": 66,
+    "title": "Xiaomi Speaker 703Mini",
+    "brand": "Xiaomi",
+    "category": "Speaker",
+    "price": 346.41
+  },
+  {
+    "id": 67,
+    "title": "Samsung Headphone 574Plus",
+    "brand": "Samsung",
+    "category": "Headphone",
+    "price": 1871.52
+  },
+  {
+    "id": 68,
+    "title": "Asus Camera 739Neo",
+    "brand": "Asus",
+    "category": "Camera",
+    "price": 1869.6
+  },
+  {
+    "id": 69,
+    "title": "LG Smartwatch 701Air",
+    "brand": "LG",
+    "category": "Smartwatch",
+    "price": 1133.5
+  },
+  {
+    "id": 70,
+    "title": "Realme Laptop 644Air",
+    "brand": "Realme",
+    "category": "Laptop",
+    "price": 574.26
+  },
+  {
+    "id": 71,
+    "title": "Asus Speaker 619Mini",
+    "brand": "Asus",
+    "category": "Speaker",
+    "price": 1605.45
+  },
+  {
+    "id": 72,
+    "title": "OnePlus Monitor 721Plus",
+    "brand": "OnePlus",
+    "category": "Monitor",
+    "price": 1016.71
+  },
+  {
+    "id": 73,
+    "title": "Realme Camera 214Neo",
+    "brand": "Realme",
+    "category": "Camera",
+    "price": 1747.38
+  },
+  {
+    "id": 74,
+    "title": "Realme Smartwatch 529Fold",
+    "brand": "Realme",
+    "category": "Smartwatch",
+    "price": 288.93
+  },
+  {
+    "id": 75,
+    "title": "Asus Laptop 397Max",
+    "brand": "Asus",
+    "category": "Laptop",
+    "price": 1811.51
+  },
+  {
+    "id": 76,
+    "title": "Xiaomi Camera 932Air",
+    "brand": "Xiaomi",
+    "category": "Camera",
+    "price": 819.81
+  },
+  {
+    "id": 77,
+    "title": "Asus Smartwatch 842Mini",
+    "brand": "Asus",
+    "category": "Smartwatch",
+    "price": 284.86
+  },
+  {
+    "id": 78,
+    "title": "Motorola Smartwatch 683Mini",
+    "brand": "Motorola",
+    "category": "Smartwatch",
+    "price": 1119.91
+  },
+  {
+    "id": 79,
+    "title": "Apple Headphone 647Plus",
+    "brand": "Apple",
+    "category": "Headphone",
+    "price": 1498.89
+  },
+  {
+    "id": 80,
+    "title": "Realme Monitor 839Mini",
+    "brand": "Realme",
+    "category": "Monitor",
+    "price": 1813.01
+  },
+  {
+    "id": 81,
+    "title": "Asus Laptop 48Max",
+    "brand": "Asus",
+    "category": "Laptop",
+    "price": 1916.9
+  },
+  {
+    "id": 82,
+    "title": "Xiaomi Camera 862Edge",
+    "brand": "Xiaomi",
+    "category": "Camera",
+    "price": 1360.01
+  },
+  {
+    "id": 83,
+    "title": "Nokia Smartphone 565Mini",
+    "brand": "Nokia",
+    "category": "Smartphone",
+    "price": 1790.96
+  },
+  {
+    "id": 84,
+    "title": "Sony Speaker 500Air",
+    "brand": "Sony",
+    "category": "Speaker",
+    "price": 1144.88
+  },
+  {
+    "id": 85,
+    "title": "Sony Smartphone 309Neo",
+    "brand": "Sony",
+    "category": "Smartphone",
+    "price": 727.22
+  },
+  {
+    "id": 86,
+    "title": "Asus TV 536Edge",
+    "brand": "Asus",
+    "category": "TV",
+    "price": 1987.23
+  },
+  {
+    "id": 87,
+    "title": "Realme Monitor 917Max",
+    "brand": "Realme",
+    "category": "Monitor",
+    "price": 908.86
+  },
+  {
+    "id": 88,
+    "title": "OnePlus TV 613Air",
+    "brand": "OnePlus",
+    "category": "TV",
+    "price": 1191.62
+  },
+  {
+    "id": 89,
+    "title": "Realme Laptop 630Neo",
+    "brand": "Realme",
+    "category": "Laptop",
+    "price": 1418.35
+  },
+  {
+    "id": 90,
+    "title": "Nokia Smartphone 42Fold",
+    "brand": "Nokia",
+    "category": "Smartphone",
+    "price": 1280.15
+  },
+  {
+    "id": 91,
+    "title": "Asus Headphone 169Fold",
+    "brand": "Asus",
+    "category": "Headphone",
+    "price": 1576.04
+  },
+  {
+    "id": 92,
+    "title": "Xiaomi Headphone 428Fold",
+    "brand": "Xiaomi",
+    "category": "Headphone",
+    "price": 215.3
+  },
+  {
+    "id": 93,
+    "title": "Motorola TV 426Edge",
+    "brand": "Motorola",
+    "category": "TV",
+    "price": 438.88
+  },
+  {
+    "id": 94,
+    "title": "Motorola Monitor 182Neo",
+    "brand": "Motorola",
+    "category": "Monitor",
+    "price": 1770.11
+  },
+  {
+    "id": 95,
+    "title": "Realme Tablet 753Lite",
+    "brand": "Realme",
+    "category": "Tablet",
+    "price": 1575.03
+  },
+  {
+    "id": 96,
+    "title": "Sony Smartphone 333Max",
+    "brand": "Sony",
+    "category": "Smartphone",
+    "price": 1533.27
+  },
+  {
+    "id": 97,
+    "title": "Asus TV 707Ultra",
+    "brand": "Asus",
+    "category": "TV",
+    "price": 1749.65
+  },
+  {
+    "id": 98,
+    "title": "Samsung Camera 359Neo",
+    "brand": "Samsung",
+    "category": "Camera",
+    "price": 770.38
+  },
+  {
+    "id": 99,
+    "title": "LG TV 371Ultra",
+    "brand": "LG",
+    "category": "TV",
+    "price": 1439.2
+  },
+  {
+    "id": 100,
+    "title": "Asus Monitor 912Max",
+    "brand": "Asus",
+    "category": "Monitor",
+    "price": 1712.71
+  }
+]

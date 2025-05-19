@@ -1,0 +1,45 @@
+{
+  "total": 15,
+  "results": [
+    {
+      "id": 3,
+      "title": "Sony Monitor 547Fold",
+      "brand": "Sony",
+      "category": "Monitor",
+      "price": 506.11,
+      "_score": 0
+    },
+    {
+      "id": 8,
+      "title": "LG Monitor 992Fold",
+      "brand": "LG",
+      "category": "Monitor",
+      "price": 1621.04,
+      "_score": 0
+    },
+    {
+      "id": 20,
+      "title": "Asus Camera 420Fold",
+      "brand": "Asus",
+      "category": "Camera",
+      "price": 155.65,
+      "_score": 0
+    },
+    {
+      "id": 38,
+      "title": "Samsung Laptop 746Fold",
+      "brand": "Samsung",
+      "category": "Laptop",
+      "price": 895.59,
+      "_score": 0
+    },
+    {
+      "id": 40,
+      "title": "LG Monitor 459Fold",
+      "brand": "LG",
+      "category": "Monitor",
+      "price": 383.29,
+      "_score": 0
+    }
+  ]
+}
