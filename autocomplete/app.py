@@ -1,6 +1,5 @@
 import json
 import os
-import sys
 
 current_dir = os.path.dirname(__file__)
 json_path = os.path.join(current_dir, "products.json")
@@ -26,13 +25,26 @@ def search_products(products, query, limit, skip):
             product["_score"] = score
             results.append(product)
 
-    # Sort by score descending
     results.sort(key=lambda x: x["_score"], reverse=True)
     total = len(results)
     return {"total": total, "results": results[skip : skip + limit]}
 
 
 def lambda_handler(event, context):
+    headers = {
+        "Content-Type": "application/json",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, OPTIONS",
+        "Access-Control-Allow-Headers": "Content-Type",
+    }
+
+    if event.get("httpMethod") == "OPTIONS":
+        return {
+            "statusCode": 200,
+            "headers": headers,
+            "body": json.dumps({"message": "CORS preflight successful"}),
+        }
+
     params = event.get("queryStringParameters") or {}
     q = params.get("q")
     limit = int(params.get("limit", 10))
@@ -41,6 +53,7 @@ def lambda_handler(event, context):
     if not q or len(q) < 2:
         return {
             "statusCode": 400,
+            "headers": headers,
             "body": json.dumps({"error": "Query must be at least 2 characters long."}),
         }
 
@@ -48,6 +61,6 @@ def lambda_handler(event, context):
 
     return {
         "statusCode": 200,
+        "headers": headers,
         "body": json.dumps(result),
-        "headers": {"Content-Type": "application/json"},
     }
